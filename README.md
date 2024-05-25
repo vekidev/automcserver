@@ -1,3 +1,5 @@
+![banner.png](https://raw.githubusercontent.com/vekidev/automcserver/master/banner.png)
+
 # automcserver
 Generate a minecraft server automatically.
 
